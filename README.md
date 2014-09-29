@@ -1,7 +1,7 @@
 # How to Use
 
 ```bash
-    ./geoip-quantizer.py /var/log/apache2/access.log /var/log/apache2/access,log.1
+    ./geoip-quantizer.py /var/log/apache2/access.log /var/log/apache2/access.log.1
 ```
 
 It should produce a sorted list of country name, country code,
